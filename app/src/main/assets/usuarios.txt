@@ -1,0 +1,18 @@
+idUsuario;nombreUsuario;contrasena;nombreCompleto;tipoUsuario
+1001;mgonzalez;clave1001;María González;PARTICIPANTE
+1002;jperez;clave1002;Juan Pérez;PARTICIPANTE
+1003;cramirez;clave1003;Carlos Ramírez;PARTICIPANTE
+1004;atorres;clave1004;Ana Torres;PARTICIPANTE
+1005;lfernandez;clave1005;Luis Fernández;PARTICIPANTE
+1006;smartinez;clave1006;Sofía Martínez;PARTICIPANTE
+1007;dlopez;clave1007;Diego López;PARTICIPANTE
+1008;asilva;clave1008;Andrea Silva;PARTICIPANTE
+1009;pruiz;clave1009;Pablo Ruiz;PARTICIPANTE
+1010;vromero;clave1010;Valeria Romero;PARTICIPANTE
+1011;cmendoza;clave1011;Camila Mendoza;PARTICIPANTE
+1012;jcastro;clave1012;Jorge Castro;PARTICIPANTE
+1013;nvega;clave1013;Natalia Vega;PARTICIPANTE
+1014;omorales;clave1014;Óscar Morales;PARTICIPANTE
+1015;fgarcia;clave1015;Fernanda García;PARTICIPANTE
+9001;admin1;admin2026;Laura Andrade;ADMINISTRADOR
+9002;admin2;mundial2026;Miguel Salazar;ADMINISTRADOR
