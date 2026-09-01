@@ -9,7 +9,7 @@ package com.espol.pronosticosmundial2026.excepciones;
  * mostrando el mensaje al usuario mediante Toast.makeText() en vez de
  * dejar que la aplicación se cierre.
  *
- * @author Jair Cárdenas
+ * @author Sebastian Espinoza
  */
 public class CredencialesInvalidasException extends Exception {
     /**
