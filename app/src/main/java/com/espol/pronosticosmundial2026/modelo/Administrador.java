@@ -7,7 +7,7 @@ package com.espol.pronosticosmundial2026.modelo;
  * Usuario los atributos comunes y agrega un atributo propio: cargo,
  * cuyo valor se lee desde el archivo administradores.txt.
  *
- * @author Jair Cárdenas
+ * @author Sebastian Espinoza
  */
 public class Administrador extends Usuario{
     private String cargo;
