@@ -8,7 +8,7 @@ package com.espol.pronosticosmundial2026.excepciones;
  * y en ambos casos se captura para mostrar el mensaje al usuario mediante
  * Toast.makeText() sin exponer la excepción cruda ni cerrar la aplicación.
  *
- * @author Jair Cárdenas
+ * @author Sebastian Espinoza
  */
 public class DatosIncompletosException extends Exception {
     /**
