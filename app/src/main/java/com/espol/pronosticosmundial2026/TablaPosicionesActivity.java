@@ -34,7 +34,7 @@ import java.util.Collections;
  * y una fila por cada participante, destacando el podio (1°, 2°, 3°
  * lugar) con emojis de medalla.
  *
- * @author Jair Cárdenas
+ * @author Sebastian Espinoza
  */
 public class TablaPosicionesActivity extends AppCompatActivity {
 
