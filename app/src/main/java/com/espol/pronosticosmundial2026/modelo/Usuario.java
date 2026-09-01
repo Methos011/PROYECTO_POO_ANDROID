@@ -9,7 +9,7 @@ package com.espol.pronosticosmundial2026.modelo;
  * que son las que definen el comportamiento específico de cada rol
  * mediante encapsulamiento y herencia.
  *
- * @author Jair Cárdenas
+ * @author Sebastian Espinoza
  */
 public abstract class Usuario {
     private int id;
