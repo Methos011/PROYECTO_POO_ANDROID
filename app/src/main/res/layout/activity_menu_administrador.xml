@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MUNDIAL 2026"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:textColor="@color/primary"
+            android:layout_marginBottom="6dp" />
+
+        <TextView
+            android:id="@+id/tvNombre"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bienvenido"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:textColor="@color/text_primary"
+            android:layout_marginBottom="26dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Menú de administrador"
+            android:textSize="15sp"
+            android:textColor="@color/text_secondary"
+            android:layout_marginBottom="12dp" />
+
+        <Button
+            android:id="@+id/btnAdministrarPartidos"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:text="Administrar partidos"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textAllCaps="false"
+            android:textColor="@color/text_primary"
+            android:onClick="mostrarAdministrarPartidos"
+            android:background="@drawable/bg_card"
+            android:layout_marginBottom="12dp" />
+
+        <Button
+            android:id="@+id/btnActualizarPuntajes"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:text="Actualizar puntajes"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textAllCaps="false"
+            android:textColor="@color/text_primary"
+            android:onClick="mostrarActualizarPuntajes"
+            android:background="@drawable/bg_card"
+            android:layout_marginBottom="12dp" />
+
+        <Button
+            android:id="@+id/btnSalir"
+            android:layout_width="match_parent"
+            android:layout_height="52dp"
+            android:text="Salir"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:onClick="salir"
+            android:background="@drawable/bg_button_danger"
+            android:layout_marginTop="10dp" />
+
+    </LinearLayout>
+
+</ScrollView>
