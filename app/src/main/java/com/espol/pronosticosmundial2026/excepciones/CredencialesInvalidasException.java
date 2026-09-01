@@ -8,7 +8,7 @@ package com.espol.pronosticosmundial2026.excepciones;
  * try-catch, lo cual se hace en LoginActivity al validar las credenciales,
  * mostrando el mensaje al usuario mediante Toast.makeText() en vez de
  * dejar que la aplicación se cierre.
- *
+ *.
  * @author Sebastian Espinoza
  */
 public class CredencialesInvalidasException extends Exception {
