@@ -7,7 +7,7 @@ package com.espol.pronosticosmundial2026.excepciones;
  * Se usa tanto en PronosticosActivity como en AdministrarPartidosActivity,
  * y en ambos casos se captura para mostrar el mensaje al usuario mediante
  * Toast.makeText() sin exponer la excepción cruda ni cerrar la aplicación.
- *
+ *.
  * @author Sebastian Espinoza
  */
 public class DatosIncompletosException extends Exception {
